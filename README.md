@@ -22,5 +22,5 @@
 ## ⚙️ Установка
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-ник/ArtGenius-AI.git
+git clone https://github.com/banhanman/ArtGenius-AI.git
 cd ArtGenius-AI
